@@ -1,0 +1,5 @@
+homepage: "https://www.mouseplayer.com"
+documentation: "https://www.mouseplayer.com/en/gtm"
+versions:
+  - sha: ""
+    changeNotes: "Initial release of MousePlayer SDK Web Tag."
